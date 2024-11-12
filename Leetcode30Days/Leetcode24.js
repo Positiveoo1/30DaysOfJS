@@ -13,4 +13,4 @@ var isBalanced = function(num) {
     }
     
     return evenSum === oddSum;
-};
+};4
